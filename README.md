@@ -7,10 +7,10 @@ This end-to-end data analytics project evaluates the financial performance and t
 
 ## 🛠️ Tech Stack & Architecture
 * **Data Processing & Cleaning:** Microsoft Excel (Multi-source normalization, date standardization, and initial data profiling).
-* **Data Warehouse & ETL:** Google BigQuery (SQL)
-* **Data Visualization:** Google Looker Studio
+* **Data Warehouse & ETL:** Google BigQuery (SQL).
+* **Data Visualization:** Google Looker Studio.
 * **Data Processing Techniques:** Advanced SQL (`CREATE VIEW`, Window Functions, `LEFT JOIN`, `COALESCE`), Currency Conversions (ARS to USD), Time Series Aggregations.
-* **Version Control:** GitHub
+* **Version Control:** GitHub.
 
 ---
 
