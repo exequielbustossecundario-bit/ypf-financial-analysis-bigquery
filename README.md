@@ -14,7 +14,11 @@ By consolidating historical macroeconomic data, international crude benchmark pr
 * **Data Visualization & BI:** Google Looker Studio
 * **Data Transformation:** SQL (`CREATE VIEW`, Window Functions, `LEFT JOIN`, `COALESCE`, Aggregations)
 * **Documentation & Version Control:** GitHub
+### 🧹 Data Cleaning & Preprocessing (Excel)
 
+* **Dataset Curation:** Evaluated YPF production tables and strategically excluded them due to historical inconsistencies and structural gaps, keeping the focus strictly on verified financial statements.
+* **Data Normalization:** Standardized currency formats, date structures, and numeric conventions across 12+ years of historical records.
+* **Quality Control:** Handled missing values, removed duplicates, and validated accounting alignment before BigQuery ingestion.
 ---
 
 ## 📊 Key Business Insights
